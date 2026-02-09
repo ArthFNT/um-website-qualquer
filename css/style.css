@@ -1,0 +1,21 @@
+body{
+    background-color: #15181d;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+a{
+    color: #4493F8;
+}
+li::marker{
+    color: white;
+}
