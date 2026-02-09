@@ -1,19 +1,9 @@
 body{
-    background-color: #15181d;
+    background-color: white;
+    color: black;
 }
-h1{
-    color: white;
-}
-p{
-    color: white;
-}
-h2{
-    color: white;
-}
-h3{
-    color: white;
-}
-h4{
+.modo-escuro{
+    background-color: #0b0d0f;
     color: white;
 }
 a{
@@ -21,4 +11,10 @@ a{
 }
 li::marker{
     color: white;
+}
+
+button{
+    position: absolute;
+    top: 5px;
+    right: 5px;
 }
